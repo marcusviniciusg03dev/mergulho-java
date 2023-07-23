@@ -4,3 +4,6 @@
 [submodule "banco"]
 	path = banco
 	url = https://github.com/marcusviniciusg03dev/mergulho-java-banco.git
+[submodule "rh-spring"]
+	path = rh-spring
+	url = https://github.com/marcusviniciusg03dev/mergulho-java-rh.git
