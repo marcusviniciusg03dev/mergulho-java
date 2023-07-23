@@ -1,3 +1,6 @@
 [submodule "iniciando"]
 	path = iniciando
 	url = https://github.com/marcusviniciusg03dev/mergulho-java-iniciando.git
+[submodule "banco"]
+	path = banco
+	url = https://github.com/marcusviniciusg03dev/mergulho-java-banco.git
